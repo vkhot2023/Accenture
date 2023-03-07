@@ -68,9 +68,17 @@ Top 3 Months based on Post
 <img src="https://user-images.githubusercontent.com/115641570/223440863-84b487d3-0ee0-49a0-a68f-d4e8d0d7ed28.png" height="150" width="300" />
   
 For More Detail, we could find in PPT and PowerBI project:
-PowerBI:
+PowerBI:https://github.com/vkhot2023/Accenture/blob/main/UPLOAD%20accenturepowerbi.pbix
 
-PPT:
+PPT:https://github.com/vkhot2023/Accenture/blob/main/accenture%20presentation.pdf
+
+## Complete PowerBI Project:
+
+https://github.com/vkhot2023/Accenture/blob/main/UPLOAD%20accenturepowerbi.pbix
+
+## Project Completion
+
+project completed by VISHAL JAGANNATH KHOT
 
 
 
