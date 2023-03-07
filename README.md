@@ -48,7 +48,11 @@ Detail Monthly Report:
 
 ## Data Analysis and insights:
 	
+we have 16 Unique categories and reactions
+Top 5 Categories Analysis
 
-<img src="https://user-images.githubusercontent.com/115641570/223424672-2318b583-59ac-49a3-93c4-472e85b9db9e.png" height="500" width="500" 
+<img src="https://user-images.githubusercontent.com/115641570/223424672-2318b583-59ac-49a3-93c4-472e85b9db9e.png" height="400" width="800" />
+
+Top 5 Categories based on popularity Score: 1 Animals	  2 Science 	3 Healthy eating      4 Technology 	5 Food
 
 
