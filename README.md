@@ -44,15 +44,35 @@ Scrrenshots:
 
 Detail Monthly Report:
 
-![Capture2](https://user-images.githubusercontent.com/115641570/223407797-bfb85d92-9f2b-4bce-81e1-0ee4480a8efe.PNG)
+<img src="https://user-images.githubusercontent.com/115641570/223407797-bfb85d92-9f2b-4bce-81e1-0ee4480a8efe.PNG" height="600" width="1200" />
+	  
 
 ## Data Analysis and insights:
 	
 we have 16 Unique categories and reactions
+
 Top 5 Categories Analysis
 
 <img src="https://user-images.githubusercontent.com/115641570/223424672-2318b583-59ac-49a3-93c4-472e85b9db9e.png" height="400" width="800" />
 
-Top 5 Categories based on popularity Score: 1 Animals	  2 Science 	3 Healthy eating      4 Technology 	5 Food
+Top 5 categories Based on Popularity Score 
+
+<img src="https://user-images.githubusercontent.com/115641570/223439624-5d439fdd-5734-4f5c-803f-baa838220574.png" height="200" width="300" />
+
+Content Media Distribution
+ 
+<img src="https://user-images.githubusercontent.com/115641570/223440656-2c1247d7-d5e3-45f3-942f-b2343d8e0198.png" height="150" width="300" />
+
+Top 3 Months based on Post
+  
+<img src="https://user-images.githubusercontent.com/115641570/223440863-84b487d3-0ee0-49a0-a68f-d4e8d0d7ed28.png" height="150" width="300" />
+  
+For More Detail, we could find in PPT and PowerBI project:
+PowerBI:
+
+PPT:
+
+
+
 
 
